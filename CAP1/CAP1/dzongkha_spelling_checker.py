@@ -1,3 +1,18 @@
+##################################
+
+#Ugyen Kinley Phuntshok
+#A
+#02240336
+
+##################################
+
+#Chat GPT, Youtube 
+#https://www.python.org/
+#Create a Dzongkha spell checker.
+#https://www.youtube.com/results?search_query=how+to+create+a+spelling+checker+on+python
+
+##################################
+
 # Read the input file
 
 link = "https://csf101-server-cap1.onrender.com/get/input/337"
